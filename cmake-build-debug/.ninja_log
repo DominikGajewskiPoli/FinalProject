@@ -1,0 +1,6 @@
+# ninja log v5
+1	111	7717674743608259	build.ninja	e9a620a3edf88a6f
+2	413	7717672849218520	CMakeFiles/Cars.dir/task_manager.cpp.obj	2379258825666e0a
+2	230	7717671639847656	CMakeFiles/Cars.dir/main.cpp.obj	bfb549c304738f29
+4	420	7717672849289997	CMakeFiles/Cars.dir/car_registry.cpp.obj	a5b86da2399c5a44
+420	500	7717672850039744	Cars.exe	8b8f9bccf8a3f6c2

@@ -1,0 +1,3 @@
+C:/Users/Student/CLionProjects/AiSR2/Task/Cars/cmake-build-debug/CMakeFiles/Cars.dir
+C:/Users/Student/CLionProjects/AiSR2/Task/Cars/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Student/CLionProjects/AiSR2/Task/Cars/cmake-build-debug/CMakeFiles/rebuild_cache.dir
